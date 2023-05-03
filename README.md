@@ -1,24 +1,13 @@
-# README
+# Y Crompinator
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Robots Will Provide
 
-Things you may want to cover:
+This is a toy project that serves as a playground for me to build features in Rails 7.
 
-* Ruby version
+#### Objectives:
 
-* System dependencies
+1.) Make my professional information available to anyone visiting ycrompinator.com
+2.) Provide a link to all of my projects, and the projects of my close colleagues
+3.) Provides documentation in the form of tutorials for the projects and features I've built
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
